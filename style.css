@@ -1,0 +1,11 @@
+p {
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+    text-wrap-style:pretty
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(48, 57, 159)
+}
